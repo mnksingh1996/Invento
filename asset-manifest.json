@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/Invento/static/css/main.1bcac0cd.chunk.css",
-    "main.js": "/Invento/static/js/main.3929a020.chunk.js",
-    "main.js.map": "/Invento/static/js/main.3929a020.chunk.js.map",
+    "main.css": "/Invento/static/css/main.a714002e.chunk.css",
+    "main.js": "/Invento/static/js/main.92d94178.chunk.js",
+    "main.js.map": "/Invento/static/js/main.92d94178.chunk.js.map",
     "runtime-main.js": "/Invento/static/js/runtime-main.131be49f.js",
     "runtime-main.js.map": "/Invento/static/js/runtime-main.131be49f.js.map",
-    "static/js/2.8be18310.chunk.js": "/Invento/static/js/2.8be18310.chunk.js",
-    "static/js/2.8be18310.chunk.js.map": "/Invento/static/js/2.8be18310.chunk.js.map",
+    "static/js/2.7314298b.chunk.js": "/Invento/static/js/2.7314298b.chunk.js",
+    "static/js/2.7314298b.chunk.js.map": "/Invento/static/js/2.7314298b.chunk.js.map",
     "index.html": "/Invento/index.html",
-    "precache-manifest.9ee831a5c6b129acde8b448f36308f66.js": "/Invento/precache-manifest.9ee831a5c6b129acde8b448f36308f66.js",
+    "precache-manifest.a6627a67c778ac8c4098e0f605e4c6da.js": "/Invento/precache-manifest.a6627a67c778ac8c4098e0f605e4c6da.js",
     "service-worker.js": "/Invento/service-worker.js",
-    "static/css/main.1bcac0cd.chunk.css.map": "/Invento/static/css/main.1bcac0cd.chunk.css.map",
-    "static/js/2.8be18310.chunk.js.LICENSE": "/Invento/static/js/2.8be18310.chunk.js.LICENSE"
+    "static/css/main.a714002e.chunk.css.map": "/Invento/static/css/main.a714002e.chunk.css.map",
+    "static/js/2.7314298b.chunk.js.LICENSE": "/Invento/static/js/2.7314298b.chunk.js.LICENSE",
+    "static/media/img1.png": "/Invento/static/media/img1.3e9135f1.png",
+    "static/media/img2.png": "/Invento/static/media/img2.02d18296.png",
+    "static/media/img3.png": "/Invento/static/media/img3.10ab735d.png",
+    "static/media/logo-sm.svg": "/Invento/static/media/logo-sm.8d2170fd.svg",
+    "static/media/logo.svg": "/Invento/static/media/logo.eb38b819.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.131be49f.js",
-    "static/js/2.8be18310.chunk.js",
-    "static/css/main.1bcac0cd.chunk.css",
-    "static/js/main.3929a020.chunk.js"
+    "static/js/2.7314298b.chunk.js",
+    "static/css/main.a714002e.chunk.css",
+    "static/js/main.92d94178.chunk.js"
   ]
 }
