@@ -1,41 +1,46 @@
 import React from "react";
 
-function cardComponent(props) {
+function cardComponent({ img_src }) {
   return (
     <div className="card">
-      <figure>
-        <img src="/card/img1.png" alt="product" />
+      <figure className="card__head">
+        <img src={img_src} alt="product" />
         <span className="card__condition">NEW</span>
 
         <span className="card__views">565</span>
       </figure>
 
-      <div className="pre__name">
-        <div className="card__tag">Live Auction</div>
+      <div className="card__body">
+        <div className="card__pre__name">
+          <div className="card__tag">
+            <div className="dot" />
+            Live Auction
+          </div>
 
-        <div className="time__left">3 days left</div>
+          <div className="card__time__left">3 days left</div>
+        </div>
+
+        <h3 className="card__name">
+          Original Iphone Boxes by Apple Liquidation Lot
+        </h3>
+
+        <ul className="card__specs">
+          <li>
+            <div>$200</div>
+            <span>Current Bid</span>
+          </li>
+
+          <li>
+            <div>$200</div>
+            <span>Current Bid</span>
+          </li>
+
+          <li>
+            <div>$200</div>
+            <span>Current Bid</span>
+          </li>
+        </ul>
       </div>
-
-      <h3 className="card__name">
-        Original Iphone Boxes by Apple Liquidation Lot
-      </h3>
-
-      <ul className="card__specs">
-        <li>
-          <div>$200</div>
-          <span>Current Bid</span>
-        </li>
-
-        <li>
-          <div>$200</div>
-          <span>Current Bid</span>
-        </li>
-
-        <li>
-          <div>$200</div>
-          <span>Current Bid</span>
-        </li>
-      </ul>
 
       <div className="card__footer">
         <button className="btn green">View Auction</button>

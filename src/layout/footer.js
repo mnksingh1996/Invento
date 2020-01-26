@@ -1,10 +1,14 @@
 import React from "react";
+import LogoSmall from "../assets/logo/logo-sm.svg";
+import FacebookIcon from "../assets/social/facebook.png";
+import InstagramIcon from "../assets/social/instagram.png";
+import TwitterIcon from "../assets/social/twitter.png";
 
 function footerComponent() {
   return (
     <footer className="footer">
       <div className="container">
-        <img src="/logo/logo-sm.svg" alt="small logo" />
+        <img src={LogoSmall} alt="small logo" />
 
         <ul>
           <li className="title">Company</li>
@@ -83,7 +87,7 @@ function footerComponent() {
                   rel="noopener noreferrer"
                   href="https://facebook.com"
                 >
-                  <img src="/social/facebook.png" alt="facebook icon" />
+                  <img src={FacebookIcon} alt="facebook icon" />
                 </a>
               </li>
               <li>
@@ -92,7 +96,7 @@ function footerComponent() {
                   rel="noopener noreferrer"
                   href="https://instagram.com"
                 >
-                  <img src="/social/instagram.png" alt="instagram icon" />
+                  <img src={InstagramIcon} alt="instagram icon" />
                 </a>
               </li>
 
@@ -102,7 +106,7 @@ function footerComponent() {
                   rel="noopener noreferrer"
                   href="https://twitter.com"
                 >
-                  <img src="/social/twitter.png" alt="twitter icon" />
+                  <img src={TwitterIcon} alt="twitter icon" />
                 </a>
               </li>
             </ul>

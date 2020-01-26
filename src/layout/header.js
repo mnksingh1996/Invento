@@ -1,10 +1,11 @@
 import React from "react";
+import Logo from "../assets/logo/logo.svg";
 
 function headerComponent() {
   return (
     <header className="header">
       <div className="container">
-        <img src="/logo/logo.svg" alt="logo with text" />
+        <img src={Logo} alt="logo with text" />
 
         <input placeholder="Search something" />
 
