@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Invento/static/css/main.1bcac0cd.chunk.css",
+    "main.js": "/Invento/static/js/main.3929a020.chunk.js",
+    "main.js.map": "/Invento/static/js/main.3929a020.chunk.js.map",
+    "runtime-main.js": "/Invento/static/js/runtime-main.131be49f.js",
+    "runtime-main.js.map": "/Invento/static/js/runtime-main.131be49f.js.map",
+    "static/js/2.8be18310.chunk.js": "/Invento/static/js/2.8be18310.chunk.js",
+    "static/js/2.8be18310.chunk.js.map": "/Invento/static/js/2.8be18310.chunk.js.map",
+    "index.html": "/Invento/index.html",
+    "precache-manifest.9ee831a5c6b129acde8b448f36308f66.js": "/Invento/precache-manifest.9ee831a5c6b129acde8b448f36308f66.js",
+    "service-worker.js": "/Invento/service-worker.js",
+    "static/css/main.1bcac0cd.chunk.css.map": "/Invento/static/css/main.1bcac0cd.chunk.css.map",
+    "static/js/2.8be18310.chunk.js.LICENSE": "/Invento/static/js/2.8be18310.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.131be49f.js",
+    "static/js/2.8be18310.chunk.js",
+    "static/css/main.1bcac0cd.chunk.css",
+    "static/js/main.3929a020.chunk.js"
+  ]
+}
